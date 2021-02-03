@@ -1,0 +1,13 @@
+[package]
+name = "pipegraph"
+version = "0.1.0"
+authors = ["kvgroup"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+vec_file = "0.1.1"
+desse = "0.2.1"
+int = "0.3.0"
+ndarray = "0.14.0"
